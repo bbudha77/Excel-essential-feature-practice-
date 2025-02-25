@@ -46,10 +46,16 @@ Learn to aggregate data by using SUMIFS and COUNTIFS for more complex conditions
 Each of the formulas listed can be copied and applied directly to your Excel spreadsheet. Use the following syntax guidelines:
 
 SUMIF: Use to sum a range based on a specific condition.
+
 COUNTIF: Use to count the number of cells that meet a certain criteria.
+
 FILTER: Use to extract a subset of data based on conditions.
+
 LARGE: Use to find the nth largest value in a range.
+
 TEXTJOIN: Use to combine multiple values into a single cell, separated by a delimiter which is comma in the project.
+
 VLOOKUP and XLOOKUP: Use to find data associated with a specific value (like employee ID or department name).
+
 AVERAGEIF, AVERAGEIFS: Use to find the average of a range based on one or more criteria.
 
