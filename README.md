@@ -7,4 +7,5 @@ The formulas and functions provided here can be applied to a variety of business
 ## Business Analysis Tasks & Formulas
 Below is a list of business questions with the associated Excel formulas that can be used to extract the required information: 
 
-!
+![image alt](https://github.com/bbudha77/Excel-essential-feature-practice-/blob/52c72d8ec5a3dfb557c1a57f44ac9a938c822255/Screenshot%202025-02-25%20205548.png)
+
