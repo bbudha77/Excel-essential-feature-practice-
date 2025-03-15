@@ -1,4 +1,4 @@
-# Excel HR and Business Analysis 
+# HR and Business Analysis 
 This repository contains a set of commonly used Excel formulas designed to help with business analysis tasks, particularly in the area of salary, department data, and employee demographics.
 
 ## Overview
